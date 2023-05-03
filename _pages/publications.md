@@ -36,7 +36,7 @@ research](https://genome.cshlp.org/content/31/10/1807.long), volume 31, pages 18
 of tissue to estimate subject-and cell-type-specific gene expression. [Bioinformatics](https://academic.oup.com/bioinformatics/article/36/3/782/5545976),
 volume 36, pages 782–788, 2020. (_Platform talk, ASHG 2018_)
 
-Siwei Chen*, **Wang, Jiebiao***, Ercument Cicek, Kathryn Roeder, Haiyuan Yu, and
+Siwei Chen\*, **Wang, Jiebiao**\*, Ercument Cicek, Kathryn Roeder, Haiyuan Yu, and
 Bernie Devlin. De novo missense variants disrupting protein–protein interactions affect
 risk for autism through gene co-expression and protein networks in neuronal cell types.
 _Molecular autism_, volume 11, pages 1–16, 2020.
