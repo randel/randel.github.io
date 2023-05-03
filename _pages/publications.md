@@ -20,11 +20,11 @@ author_profile: true
 
 ![](deconv.png)
 
-[HiDecon](https://github.com/randel/HiDecon): Huang, Penghui, Cai, Manqi, Xinghua Lu, Chris McKennan, and **Wang, Jiebiao**+.
+[HiDecon](https://github.com/randel/HiDecon): <ins>Huang, Penghui</ins>, <ins>Cai, Manqi</ins>, Xinghua Lu, Chris McKennan, and **Wang, Jiebiao**+.
 Accurate estimation of rare cell type fractions from tissue omics data via hierarchical
 deconvolution. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.15.532820v1), 2023. 
 
-[EnsDeconv](https://github.com/randel/EnsDeconv): Cai, Manqi, Molin Yue, Tianmeng Chen, Jinling Liu, Erick Forno, Xinghua Lu, Timothy
+[EnsDeconv](https://github.com/randel/EnsDeconv): <ins>Cai, Manqi</ins>, Molin Yue, Tianmeng Chen, Jinling Liu, Erick Forno, Xinghua Lu, Timothy
 Billiar, Juan Celedón, Chris McKennan, Wei Chen+, and **Wang, Jiebiao**+. Robust and
 accurate estimation of cellular fraction from tissue omics data via ensemble deconvolution. [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/11/3004/6570586?login=false), volume 38, pages 3004–3010, 2022.
 
@@ -63,4 +63,4 @@ expression in uncollected tissues within and beyond GTEx. [The American Journal 
 Human Genetics](https://www.cell.com/ajhg/fulltext/S0002-9297(16)00071-9), volume 98, pages 697–708, 2016.
 
 \* Joint first author;
-\+ Corresponding author
+\+ Corresponding author; <ins>student</ins>
