@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -45,7 +44,7 @@ _Molecular autism_, volume 11, pages 1–16, 2020.
 
 ## Statistical genomics
 
-Kyle Satterstrom*, Jack Kosmicki*, **Wang, Jiebiao***, Michael S Breen, Silvia De Rubeis,
+Kyle Satterstrom\*, Jack Kosmicki\*, **Wang, Jiebiao***, Michael S Breen, Silvia De Rubeis,
 Joon-Yong An, Minshi Peng, Ryan Collins, Jakob Grove, Lambertus Klei, et al. Large-scale exome sequencing study implicates both developmental and functional changes
 in the neurobiology of autism. [Cell](https://www.sciencedirect.com/science/article/pii/S0092867419313984), volume 180, pages 568–584, 2020.
 
@@ -63,3 +62,5 @@ Im, Robert D Gibbons, Nancy J Cox, Dan L Nicolae, and Lin S Chen. Imputing gene
 expression in uncollected tissues within and beyond GTEx. [The American Journal of
 Human Genetics](https://www.cell.com/ajhg/fulltext/S0002-9297(16)00071-9), volume 98, pages 697–708, 2016.
 
+\* Joint first author;
+\+ Corresponding author
