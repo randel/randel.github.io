@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research is focused on developing statistical methods and computational tools to solve real biomedical problems. I am particularly interested in statistical methods for high-dimensional genomics data with cell-type heterogeneity, clustered structure, and missing values. My research spans:
+My research is focused on developing statistical methods and computational tools to solve real biomedical problems. I am interested in statistical methods for high-dimensional genomics data with cell-type heterogeneity, clustered structure, and missing values. My research spans:
 * cell type deconvolution
 * single-cell RNA sequencing data
 * epigenetics/proteomics data
