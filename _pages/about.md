@@ -11,9 +11,9 @@ redirect_from:
 My research is focused on developing statistical methods and computational tools to solve real biomedical problems. I am particularly interested in statistical methods for high-dimensional genomics data with cell-type heterogeneity, clustered structure, and missing values. My research spans:
 * cell type deconvolution
 * single-cell RNA sequencing data
+* epigenetics/proteomics data
 * mixed-effects models
-* machine learning methods
-* proteomics data.
+* machine learning methods.
 
 My collaboration is in areas such as Alzheimer's disease, psychiatry, asthma, and breast cancer. We analyze data from whole genome/exome sequencing, bulk/single-cell RNA sequencing, DNA methylation, proteomics, etc.
 
