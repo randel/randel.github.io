@@ -1,5 +1,10 @@
 
-## Collaborators
+---
+layout: archive
+title: "Collaborators"
+permalink: /collaborators/
+author_profile: true
+---
 
 * Chris McKennan (Statistics)
 * Wei Chen (Pediatrics)
