@@ -9,6 +9,6 @@ author_profile: true
 * Wei Chen (Pediatrics)
 * Qi Yan (Columbia)
 * Jennifer Adibi (Epidemiology)
-* Sally Wenzel (EOH)
+* Sally Wenzel (Environmental and Occupational Health)
 * Yesim Demerci (Human Genetics)
 * ...
