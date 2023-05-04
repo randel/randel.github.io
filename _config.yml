@@ -83,11 +83,11 @@ author:
   name             : "Jiebiao Wang"
   avatar           : "Wang,Jiebiao2019_680x600.jpg"
   bio              : "Assistant Professor of Biostatistics (Primary) and Clinical and Translational Science (Secondary)"
-  location         : "University of Pittsburgh"
-  employer         :
+  location         : 
+  employer         : "University of Pittsburgh"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=jiebiao+wang"
   googlescholar    : "https://scholar.google.com/citations?user=q9paCroAAAAJ&hl=en"
-  email            :
+  email            : jbwang@pitt.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
