@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar profile](https://scholar.google.com/citations?user=q9paCroAAAAJ&hl=en)
-
 
 {% include base_path %}
 
