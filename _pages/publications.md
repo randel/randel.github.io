@@ -49,7 +49,7 @@ in the neurobiology of autism. [Cell](https://www.sciencedirect.com/science/arti
 mixed-effects selection models for analyzing batch-processed proteomics data with
 non-ignorable missingness. [Biostatistics](https://academic.oup.com/biostatistics/article/20/4/648/5043454), volume 20, pages 648–665, 2019.
 
-[ofGEM](https://github.com/randel/ofGEM): **Wang, Jiebiao***, Qianying Liu*, Brandon Pierce, Dezheng Huo, Olufunmilayo Olopade,
+[ofGEM](https://github.com/randel/ofGEM): **Wang, Jiebiao**\*, Qianying Liu\*, Brandon Pierce, Dezheng Huo, Olufunmilayo Olopade,
 Habibul Ahsan, and Lin Chen. A meta-analysis approach with filtering for identifying
 gene-level gene-environment interactions. [Genetic epidemiology](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.22115), volume 42, pages
 434–446, 2018.
