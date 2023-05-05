@@ -17,8 +17,7 @@ author_profile: true
 
 ## Incoming talks
 
-* 5/17/2023, Joint Seminar Series of Genetics, Genomics, and Bioinformatics, University of California,
-Riverside
+* 5/17/2023, Joint Seminar Series of CMDB (Cell, Molecular, and Developmental Biology) - GGB (Genetics, Genomics, and Bioinformatics) - MCBL (Microbiology), University of California, Riverside
 
 * 8/10/2023, JSM 2023
 
