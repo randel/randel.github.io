@@ -17,8 +17,6 @@ author_profile: true
 
 ## Upcoming talks
 
-{%* 5/17/2023, Joint Seminar Series of CMDB (Cell, Molecular, and Developmental Biology) - GGB (Genetics, Genomics, and Bioinformatics) - MCBL (Microbiology), University of California, Riverside %}
-
 * 8/10/2023, JSM 2023
 
 * 11/9/2023, Biostatistics Seminar, University of North Carolina at Chapel Hill
