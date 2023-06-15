@@ -26,6 +26,4 @@ author_profile: true
 
 ## Upcoming conferences
 
-* 6/11-14/2023, ICSA Applied Statistics Symposium
-
 * 6/19/2023, WNAR
