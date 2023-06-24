@@ -7,7 +7,7 @@ author_profile: true
 
 {% if site.talkmap_link == true %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk! ## Upcoming conferences </a></p>
 
 {% endif %}
 
@@ -22,8 +22,3 @@ author_profile: true
 * 11/9/2023, Biostatistics Seminar, University of North Carolina at Chapel Hill
 
 * 12/16-18/2023, CMStatistics 2023
-
-
-## Upcoming conferences
-
-* 6/19/2023, WNAR
