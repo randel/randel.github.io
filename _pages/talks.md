@@ -17,8 +17,6 @@ author_profile: true
 
 ## Upcoming talks
 
-* 8/10/2023, JSM 2023
-
 * 11/9/2023, Biostatistics Seminar, University of North Carolina at Chapel Hill
 
 * 12/16-18/2023, CMStatistics 2023
