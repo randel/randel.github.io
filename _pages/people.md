@@ -19,5 +19,6 @@ redirect_from:
 
 # Master students
 - Tianyuzhou Liang
+- Michelle Sun
 
 
