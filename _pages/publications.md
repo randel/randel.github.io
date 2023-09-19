@@ -22,7 +22,7 @@ scMD: cell type deconvolution using single-cell DNA methylation references. [bio
 
 [HiDecon](https://github.com/randel/HiDecon): <ins>Huang, Penghui</ins>, <ins>Cai, Manqi</ins>, Xinghua Lu, Chris McKennan, and **Wang, Jiebiao**+.
 Accurate estimation of rare cell type fractions from tissue omics data via hierarchical
-deconvolution. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.15.532820v1), 2023. (_ICSA Research Poster Award & Student Paper Award Honorable Mention; NESS Student Research Award_)
+deconvolution. [Annals of Applied Statistics (accepted)](https://www.biorxiv.org/content/10.1101/2023.03.15.532820v1), 2023. (_ICSA Research Poster Award & Student Paper Award Honorable Mention; NESS Student Research Award_)
 
 [EnsDeconv](https://github.com/randel/EnsDeconv): <ins>Cai, Manqi</ins>, Molin Yue, Tianmeng Chen, Jinling Liu, Erick Forno, Xinghua Lu, Timothy
 Billiar, Juan Celedón, Chris McKennan, Wei Chen+, and **Wang, Jiebiao**+. Robust and
