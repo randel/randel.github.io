@@ -19,4 +19,8 @@ author_profile: true
 
 * 11/9/2023, Biostatistics Seminar, University of North Carolina at Chapel Hill
 
-* 12/16-18/2023, CMStatistics 2023
+* 12/17/2023, CMStatistics 2023
+
+## Upcoming conferences
+
+* 5/1-3/2024, [STATGEN 2024](https://www.sph.pitt.edu/biostatistics/about/statgen-2024)
