@@ -17,9 +17,10 @@ author_profile: true
 
 ## Upcoming talks
 
-* 11/9/2023, Biostatistics Seminar, University of North Carolina at Chapel Hill
-
 * 12/17/2023, CMStatistics 2023
+
+* 1/24/2024, Biostatistics and Computational Biology Branch Seminar Series,
+National Institute of Environmental Health Sciences (NIEHS)
 
 ## Upcoming conferences
 
