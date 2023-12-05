@@ -14,11 +14,14 @@ redirect_from:
 # Ph.D. students
 
 - Manqi Cai
+    - MS in Biostatistics, Columbia University
 - Penghui Huang
+    - BS in Statistics, University of Science and Technology of China
 - Chen Liu
+    - MS in Statistics, University of Michigan
 
 # Master students
-- Tianyuzhou Liang
+- Jenny Liang
 - Michelle Sun
 
 
