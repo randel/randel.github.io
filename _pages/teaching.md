@@ -16,5 +16,7 @@ author_profile: true
 * BIOST 2025: Biostatistics Seminar; Spring, Fall 2020; Spring, Fall 2021; Spring 2022
 
 ## Guest Lecturer
+* BIOST 2069: Statistical Methods for Omics Data
+* BIOST 2065: Analysis of Incomplete Data
 * HUGEN 2080: Statistical Genetics; Spring 2022; Spring 2020 
 * EPID 2620: Application of Molecular Biomarkers in Epidemiology; Spring 2020
