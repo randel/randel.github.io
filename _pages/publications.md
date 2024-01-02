@@ -19,10 +19,10 @@ author_profile: true
 
 [HiDecon](https://github.com/randel/HiDecon): <ins>Huang, Penghui</ins>, <ins>Cai, Manqi</ins>, Xinghua Lu, Chris McKennan, and **Wang, Jiebiao**+.
 Accurate estimation of rare cell type fractions from tissue omics data via hierarchical
-deconvolution. [Annals of Applied Statistics (accepted)](https://www.biorxiv.org/content/10.1101/2023.03.15.532820v1), 2023. (_ICSA Research Poster Award & Student Paper Award Honorable Mention; NESS Student Research Award_)
+deconvolution. [Annals of Applied Statistics (accepted)](https://www.biorxiv.org/content/10.1101/2023.03.15.532820v1), 2024. (_ICSA Research Poster Award & Student Paper Award Honorable Mention; NESS Student Research Award_)
 
 [scMD](https://github.com/randel/scMD): <ins>Cai, Manqi</ins>, Jingtian Zhou, Chris McKennan, and **Wang, Jiebiao**+.
-scMD: cell type deconvolution using single-cell DNA methylation references. [Communications Biology (accepted)](https://doi.org/10.1101/2023.08.03.551733), 2023. 
+scMD facilitates cell type deconvolution using single-cell DNA methylation references. [Communications Biology](https://www.nature.com/articles/s42003-023-05690-5), 2024. 
 
 [EnsDeconv](https://github.com/randel/EnsDeconv): <ins>Cai, Manqi</ins>, Molin Yue, Tianmeng Chen, Jinling Liu, Erick Forno, Xinghua Lu, Timothy
 Billiar, Juan Celedón, Chris McKennan, Wei Chen+, and **Wang, Jiebiao**+. Robust and
