@@ -18,11 +18,10 @@ author_profile: true
 
 ## Upcoming talks
 
-* 1/24/2024, Biostatistics and Computational Biology Branch Seminar Series,
-National Institute of Environmental Health Sciences (NIEHS)
-
 * 5/1-3/2024, [STATGEN 2024](https://www.sph.pitt.edu/biostatistics/about/statgen-2024)
 
-* 6/14/2024, Pitt Senior Vice Chancellor’s Research Seminar series
+* 6/14/2024, [Pitt Senior Vice Chancellor’s Research Seminar series](https://calendar.pitt.edu/event/integrating_single-cell_and_tissue_omics_population-level_cell_type-specific_insights)
+
+* 8/3-8/2024, JSM
 
 
