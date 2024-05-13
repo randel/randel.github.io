@@ -12,8 +12,8 @@ author_profile: true
 {% endfor %}
 
 ## Instructor
+* BIOST 2154: Statistical Methods for Omics Data; Fall 2024
 * BIOST 2068: Introduction to Causal Inference; Fall 2021; Fall 2022; Fall 2023
-* BIOST 2025: Biostatistics Seminar; Spring, Fall 2020; Spring, Fall 2021; Spring 2022
 
 ## Guest Lecturer
 * BIOST 2069: Statistical Methods for Omics Data
