@@ -16,7 +16,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
-## Upcoming talks
+## Recent talks
 
 * 6/14/2024, [Pitt Senior Vice Chancellor’s Research Seminar series](https://calendar.pitt.edu/event/integrating_single-cell_and_tissue_omics_population-level_cell_type-specific_insights)
 
