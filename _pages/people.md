@@ -9,17 +9,17 @@ redirect_from:
 
 {% include feature_row %}
 
-**Motivated students/applicants please email me at jbwang at pitt.edu.**
+**Motivated students/applicants, please email me at jbwang at pitt.edu.**
 
 # Ph.D. students
 
 - Chen Liu
     - MS in Statistics, University of Michigan
+    - Student Paper Award, Health Policy Statistics Section, American Statistical Association, 2025
 - Wenzhuo Lin
     - MS in Biostatistics, University of Michigan
-- Penghui Huang
-    - BS in Statistics, University of Science and Technology of China
-
+- Liang You
+    - BS in Statistics, Xiamen University (Expected)
 
 # Alumni
 - Manqi Cai, PhD: FDA
