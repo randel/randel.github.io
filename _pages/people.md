@@ -19,10 +19,10 @@ redirect_from:
 - Wenzhuo Lin
     - MS in Biostatistics, University of Michigan
 - Liang You
-    - BS in Statistics, Xiamen University (Expected)
+    - BS in Statistics, Xiamen University
 
 # Alumni
-- Manqi Cai, PhD: FDA
+- Manqi Cai, PhD: FDA, C3.AI
 - Jenny Liang, MS: Integrative Systems Biology PhD Program, University of Pittsburgh
 - Michelle Sun, MS: Genetics, Genomics and Systems Biology PhD Program, University of Chicago
 
