@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiebiao Wang"
+title: "Jiebiao Wang, PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My research is focused on developing statistical methods and computational tools to solve real biomedical problems. I am interested in statistical methods for high-dimensional genomics data with cell-type heterogeneity, clustered structure, and missing values. My research spans:
+I'm an Assistant Professor in the Department of Biostatistics and Health Data Science and the Clinical and Translational Science Institute at the University of Pittsburgh. Before joining Pitt in January 2020, I worked as a postdoc researcher  at Carnegie Mellon University and received my PhD in Biostatistics from the University of Chicago in 2017. My research interests include statistical genomics and causal inference of omics data. My research is focused on developing statistical methods and computational tools to solve real biomedical problems. My research spans:
 * single-cell/spatial omics data
 * cell type deconvolution
-* proteomics data
+* epigeomics data
 * mediation analysis.
 
 My collaboration is in areas such as Alzheimer's disease, psychiatry, asthma, and breast cancer. We analyze data from whole genome/exome sequencing, bulk/single-cell RNA sequencing, DNA methylation, proteomics, etc.
