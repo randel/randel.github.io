@@ -1,15 +1,14 @@
-\---
-
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
-author\_profile: true
+author_profile: true
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative\_url }}">
 
 <div class="pub-legend">
-<strong>Legend:</strong> <strong>bold</strong> = J. Wang. Student authors <u>underlined</u>. \* = joint first author. + = corresponding author. See also <a href="https://scholar.google.com/citations?user=q9paCroAAAAJ">Google Scholar</a> and <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=jiebiao+wang">PubMed</a>.
+<strong>Legend:</strong> <strong>bold</strong> = J. Wang. Student authors <u>underlined</u>. \* = joint first author. + = corresponding author. See also <a href="https://scholar.google.com/citations?user=q9paCroAAAAJ">Google Scholar</a>.
 </div>
 
 ## Methodological Publications
@@ -18,7 +17,7 @@ author\_profile: true
 
 [HMBART](https://github.com/Lewis-ChenLiu/HMBART): <u>Liu, Chen</u>, Xu Qin+, Victor B Talisa, and **Wang, Jiebiao**+. Heterogeneous causal mediation analysis with Bayesian additive regression trees. *Biometrics*, accepted, 2026. (*ASA Health Policy Statistics Section Student Paper Award, 2025*)
 
-[CCmed](https://doi.org/10.1093/bioinformatics/btab139): Fan Yang, Kevin J Gleason, **Wang, Jiebiao**, Jubao Duan, Xin He, Brandon L Pierce, and Lin S Chen. Cross-condition mediation analysis for identifying replicable trans-associations mediated by cis-gene expression. [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btab139), volume 37, pages 2513–2520, 2021.
+Fan Yang, Kevin J Gleason, **Wang, Jiebiao**, Jubao Duan, Xin He, Brandon L Pierce, and Lin S Chen. Cross-condition mediation analysis for identifying replicable trans-associations mediated by cis-gene expression. [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btab139), volume 37, pages 2513–2520, 2021.
 
 Fan Yang, **Wang, Jiebiao**, Brandon L Pierce, and Lin S Chen. Identifying cis-mediators for trans-eQTLs across many human tissues using genomic mediation analysis. [*Genome Research*](https://doi.org/10.1101/gr.216754.116), volume 27, pages 1859–1871, 2017.
 
