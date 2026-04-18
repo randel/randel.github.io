@@ -8,7 +8,7 @@ author_profile: true
 <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative\_url }}">
 
 <div class="pub-legend">
-<strong>Legend:</strong> <strong>bold</strong> = J. Wang. Student authors <u>underlined</u>. \* = joint first author. + = corresponding author. See also <a href="https://scholar.google.com/citations?user=q9paCroAAAAJ">Google Scholar</a>.
+<strong>Legend:</strong> <strong>bold</strong> = J. Wang. Student authors <u>underlined</u>. * = joint first author. + = corresponding author. See also <a href="https://scholar.google.com/citations?user=q9paCroAAAAJ">Google Scholar</a>.
 </div>
 
 ## Methodological Publications
@@ -25,7 +25,7 @@ Fan Yang, **Wang, Jiebiao**, Brandon L Pierce, and Lin S Chen. Identifying cis-m
 
 [BLEND](https://github.com/Penghuihuang2000/BLEND): <u>Huang, Penghui</u>, <u>Cai, Manqi</u>, Chris McKennan, and **Wang, Jiebiao**+. Probabilistic cellular deconvolution with individualized single-cell reference integration. [*Genome Biology*](https://doi.org/10.1186/s13059-025-03732-1), volume 26, article 328, 2025.
 
-[MOFUN-CCC](https://shiny.crc.pitt.edu/mofun_shiny/): <u>Yue, Molin</u>, <u>Cai, Manqi</u>, Chong Zhao, Jinling Liu, Shikun Tao, Hao Hu, Yongrui Chen, Hanxi Huang, Juan C Celedon, **Wang, Jiebiao**+, and Wei Chen+. A multi-omics intermediate fusion network for digital white blood cell count prediction. *Genomics, Proteomics \& Bioinformatics*, accepted, 2025.
+[MOFUN-CCC](https://shiny.crc.pitt.edu/mofun_shiny/): <u>Yue, Molin</u>, <u>Cai, Manqi</u>, Chong Zhao, Jinling Liu, Shikun Tao, Hao Hu, Yongrui Chen, Hanxi Huang, Juan C Celedon, **Wang, Jiebiao**+, and Wei Chen+. A multi-omics intermediate fusion network for digital white blood cell count prediction. *Genomics, Proteomics & Bioinformatics*, accepted, 2025.
 
 [EMixed](https://github.com/manqicai/EMixed): <u>Cai, Manqi</u>, <u>Zhao, Kangyi</u>, <u>Huang, Penghui</u>, Juan C Celedon, Chris McKennan, Wei Chen, and **Wang, Jiebiao**+. Probabilistic multi-omics cellular deconvolution of bulk omics data. [*Journal of Data Science*](https://doi.org/10.6339/25-JDS1170), volume 23, pages 592–606, 2025.
 
@@ -71,7 +71,7 @@ Tingyan He, Junfeng Wang, Marion C Tumba, ..., **Wang, Jiebiao**, ..., Qing Zhou
 
 Emily K Schworer, Matthew D Zammit, **Wang, Jiebiao**, et al. Amyloid chronicity and tau PET timeline to symptomatic Alzheimer's disease in Down syndrome. *Lancet Neurology*, volume 23, pages 1214–1224, 2024.
 
-Jung-Min Pyun, Young Ho Park, **Wang, Jiebiao**, et al. Transcriptional risk scores in Alzheimer's disease: from pathology to cognition. [*Alzheimer's \& Dementia*](https://doi.org/10.1002/alz.13406), volume 20, pages 243–252, 2024.
+Jung-Min Pyun, Young Ho Park, **Wang, Jiebiao**, et al. Transcriptional risk scores in Alzheimer's disease: from pathology to cognition. [*Alzheimer's & Dementia*](https://doi.org/10.1002/alz.13406), volume 20, pages 243–252, 2024.
 
 Jung-Min Pyun, Young Ho Park, **Wang, Jiebiao**, et al. Aberrant GAP43 gene expression is Alzheimer disease pathology-specific. [*Annals of Neurology*](https://doi.org/10.1002/ana.26637), volume 93, pages 1047–1048, 2023.
 
@@ -103,5 +103,5 @@ Shuangjia Xue, Mehdi Nouraie, **Wang, Jiebiao**, et al. Oxidative stress pathway
 
 Sigan Hartley, <u>Liu, Chen</u>, **Wang, Jiebiao**, et al. Trajectory of cognitive decline in relation to PET and plasma biomarkers in Down syndrome-associated Alzheimer disease. *Lancet Neurology*, under review.
 
-## 
+
 
