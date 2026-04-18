@@ -1,1 +1,65 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 240" role="img" aria-label="MIND: multi-measurement deconvolution into cell types">
+  <defs>
+    <linearGradient id="mindBulk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d8c9e6"/>
+      <stop offset="1" stop-color="#8a6fb5"/>
+    </linearGradient>
+    <marker id="arrMind" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#6b5494"/>
+    </marker>
+  </defs>
+  <rect width="440" height="240" fill="#fbfaf7"/>
+  <!-- bulk tissue block (left) -->
+  <g transform="translate(20,55)">
+    <rect x="0" y="0" width="80" height="120" rx="6" fill="url(#mindBulk)" stroke="#6b5494" stroke-width="1.2"/>
+    <text x="40" y="140" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#3b2e5a" font-style="italic">bulk tissue</text>
+    <g fill="#fff" fill-opacity="0.55">
+      <circle cx="18" cy="22" r="3"/><circle cx="48" cy="40" r="2.2"/><circle cx="62" cy="18" r="2.8"/>
+      <circle cx="28" cy="70" r="2"/><circle cx="54" cy="88" r="3.2"/><circle cx="14" cy="100" r="2.4"/>
+      <circle cx="68" cy="60" r="2"/><circle cx="40" cy="110" r="2.2"/>
+    </g>
+  </g>
+  <!-- arrow -->
+  <g stroke="#6b5494" stroke-width="1.4" fill="none">
+    <path d="M110 115 L175 115" marker-end="url(#arrMind)"/>
+  </g>
+  <text x="142" y="107" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="11" fill="#6b5494">deconvolve</text>
+  <!-- six cell-type clusters: 3 columns × 2 rows, compact layout, full names -->
+  <g transform="translate(190,40)" font-family="Georgia, serif" font-size="9">
+    <!-- Row 1 -->
+    <g transform="translate(0,0)">
+      <circle cx="26" cy="22" r="14" fill="#d97a4a" opacity="0.9"/>
+      <circle cx="38" cy="34" r="8" fill="#d97a4a" opacity="0.7"/>
+      <circle cx="15" cy="38" r="6" fill="#d97a4a" opacity="0.75"/>
+      <text x="26" y="58" text-anchor="middle" fill="#6b2e0e">Excitatory</text>
+      <text x="26" y="68" text-anchor="middle" fill="#6b2e0e">neuron</text>
+    </g>
+    <g transform="translate(82,0)">
+      <circle cx="26" cy="22" r="12" fill="#a84a5a" opacity="0.9"/>
+      <circle cx="14" cy="32" r="7" fill="#a84a5a" opacity="0.7"/>
+      <text x="26" y="58" text-anchor="middle" fill="#5a1e28">Inhibitory</text>
+      <text x="26" y="68" text-anchor="middle" fill="#5a1e28">neuron</text>
+    </g>
+    <g transform="translate(164,0)">
+      <circle cx="26" cy="22" r="12" fill="#5a8fa8" opacity="0.9"/>
+      <circle cx="38" cy="30" r="7" fill="#5a8fa8" opacity="0.7"/>
+      <text x="26" y="58" text-anchor="middle" fill="#2e4858">Astrocyte</text>
+    </g>
+    <!-- Row 2 -->
+    <g transform="translate(0,88)">
+      <circle cx="26" cy="22" r="10" fill="#8aa85a" opacity="0.9"/>
+      <circle cx="12" cy="30" r="6" fill="#8aa85a" opacity="0.7"/>
+      <text x="26" y="52" text-anchor="middle" fill="#3f4f1f">Microglia</text>
+    </g>
+    <g transform="translate(82,88)">
+      <circle cx="26" cy="22" r="11" fill="#b86a7a" opacity="0.9"/>
+      <text x="26" y="52" text-anchor="middle" fill="#5a2a36">Oligo-</text>
+      <text x="26" y="62" text-anchor="middle" fill="#5a2a36">dendrocyte</text>
+    </g>
+    <g transform="translate(164,88)">
+      <circle cx="26" cy="22" r="9" fill="#c4a654" opacity="0.9"/>
+      <circle cx="38" cy="16" r="5" fill="#c4a654" opacity="0.7"/>
+      <text x="26" y="52" text-anchor="middle" fill="#594311">Endothelial</text>
+    </g>
+  </g>
+</svg>
