@@ -13,10 +13,10 @@ redirect_from:
     I'm an Associate Professor in the Department of
     <a href="https://www.sph.pitt.edu/biostatistics">Biostatistics and Health Data Science</a>
     (Primary) and the
-    <a href="https://www.ctsi.pitt.edu/">Clinical and Translational Science Institute</a>
+    Clinical and Translational Science Institute
     (Secondary) at the University of Pittsburgh. Before Pitt, I was a postdoc at Carnegie Mellon
-    with <a href="http://www.stat.cmu.edu/~roeder/">Kathryn Roeder</a>, and earned my PhD in
-    Biostatistics from the University of Chicago with <a href="https://health.uchicago.edu/faculty/lin-chen-phd">Lin Chen</a> and <a href="https://health.uchicago.edu/faculty/robert-gibbons-phd">Robert Gibbons</a>.
+    with Dr. Kathryn Roeder, and earned my PhD in
+    Biostatistics from the University of Chicago with Drs. Lin Chen and Robert Gibbons.
   </p>
 <p>
     My lab develops <strong>statistical and computational methods</strong> for high-dimensional
@@ -55,7 +55,7 @@ Research themes
     <div class="theme-kicker">Theme 03</div>
     <h3>Causal mediation</h3>
     <p>
-      Genomic mediation analysis and heterogeneous causal methods (<em>HMBART</em>, <em>CCmed</em>)
+      Genomic mediation analysis and heterogeneous causal methods (<em>HMBART</em>)
       for dissecting how genetic variation propagates through molecular intermediates to disease.
     </p>
   </div>
@@ -86,7 +86,7 @@ Featured methods
       <p class="pub-tagline">Probabilistic cellular deconvolution with individualized single-cell reference integration.</p>
       <p class="pub-meta">Huang P, Cai M, McKennan C, <strong>Wang J</strong>. <em>Genome Biology</em>, 26:328.</p>
       <p class="pub-links">
-        <a href="https://doi.org/10.1186/s13059-025-03732-1">paper</a> ·
+        <a href="https://link.springer.com/article/10.1186/s13059-025-03765-6">paper</a> ·
         <a href="https://github.com/Penghuihuang2000/BLEND">code</a>
       </p>
     </div>
@@ -151,13 +151,13 @@ Join the lab · Collaborate
     <h3>PhD &amp; MS applicants</h3>
     <p>
       I am actively recruiting <strong>PhD students</strong> in Biostatistics and welcome
-      inquiries from strong <strong>MS students</strong> interested in research assistantships.
+      inquiries from motivated students interested in research assistantships.
       If you enjoy statistical methodology, programming (R/Python), and working on biological data,
       we would love to hear from you.
     </p>
     <ul class="cta-list">
       <li>Pitt Biostatistics &amp; Health Data Science <a href="https://www.sph.pitt.edu/biostatistics/phd/biostatistics">PhD program</a></li>
-      <li>Applications are reviewed annually; contact me before applying</li>
+      <li>Applications are reviewed annually</li>
     </ul>
     <a class="cta-button" href="mailto:jbwang@pitt.edu?subject=Prospective%20PhD%20student%20inquiry">Email me about joining</a>
   </div>
@@ -165,9 +165,9 @@ Join the lab · Collaborate
     <div class="cta-eyebrow">Biomedical collaborators</div>
     <h3>Research collaboration</h3>
     <p>
-      I collaborate with investigators across <strong>Alzheimer's disease</strong>, psychiatry,
+      I collaborate with investigators across Alzheimer's disease, psychiatry,
       asthma, cancer, and related areas. Whether you have a single-cell or bulk omics dataset,
-      a mediation / causal question, or a new study in design, I'm happy to discuss.
+      a mediation/causal question, or a new study in design, I'm happy to discuss.
     </p>
     <ul class="cta-list">
       <li>Method development driven by real biological problems</li>
