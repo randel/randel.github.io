@@ -356,6 +356,50 @@
   font-size: 0.88em;
 }
 
+/* ---------- Publications page ---------- */
+.pub-legend {
+  font-size: 0.92em;
+  color: var(--ink-soft);
+  background: #f4efe2;
+  border-left: 3px solid var(--gold);
+  padding: 0.8em 1.1em;
+  margin: 0.5em 0 2em;
+  line-height: 1.55;
+  font-family: Georgia, serif;
+}
+.pub-legend a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(122, 46, 31, 0.3);
+}
+.page__content h3 {
+  font-family: Georgia, serif;
+  font-size: 1.15em;
+  font-weight: 600;
+  color: var(--accent);
+  margin-top: 1.8em;
+  margin-bottom: 0.6em;
+  letter-spacing: 0.01em;
+}
+.page__content h2 + h3 {
+  margin-top: 0.8em;
+}
+/* Tighten paragraph spacing in publication lists */
+.page__content p {
+  margin: 0.45em 0 0.9em;
+  line-height: 1.55;
+}
+/* Style the bracketed method name at the start of entries */
+.page__content p a:first-child:not([href^="#"]) {
+  font-weight: 600;
+}
+/* underlined student authors */
+.page__content u {
+  text-decoration: underline;
+  text-decoration-color: rgba(122, 46, 31, 0.35);
+  text-underline-offset: 2px;
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 700px) {
   .pub-card {
