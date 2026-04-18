@@ -1,16 +1,12 @@
-# main links links
+# main links
 main:
+  - title: "Jiebiao Wang"
+    url: /
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
-  
+    url: /teaching/
   - title: "CV"
     url: /cv/
-    
   - title: "People"
     url: /people/
